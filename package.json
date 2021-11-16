@@ -1,7 +1,17 @@
 {
   "name": "imgloaderjs",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "JavaScript's Image Loader Manager.",
+  "files": [
+    "loader.js",
+    "README.md",
+    "package.json",
+    "LICENSE"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:aliaszz/imgloaderjs.git"
+  },
   "keywords": [
     "load",
     "loader",
